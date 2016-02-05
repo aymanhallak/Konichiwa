@@ -1,0 +1,2 @@
+# Konichiwa
+Konichiwa Website Project
